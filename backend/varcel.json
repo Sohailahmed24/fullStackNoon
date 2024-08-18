@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/noon",
+        "destination": "https://food.noon.com/_svc/mp-food-api-catalog/api/"
+      }
+    ]
+  }
+  
